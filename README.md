@@ -4,6 +4,6 @@ The model is not complete and is not subject to generating correct results.
 I used deSolve package to implement Euler's method for solving ODE's.
 
 Simulation result using R with tidyverse.
-![]("./comparison.png")
+![]("comparison.png")
 
 The "BTC-USD.csv" was just an add-on I used for presentation purposes.
